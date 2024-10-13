@@ -37,13 +37,13 @@ p {
 
 .title {
     position: absolute;
-    top: -2px;
-    right: -2px;
+    top: 0px;
+    right: 0px;
     background-color: #ffb6c1;
     padding: 7px 60px;
-    border: 2px solid black;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black; ;
     font-weight: bold;
-    
 }
 
 .section:nth-child(1) .title {
